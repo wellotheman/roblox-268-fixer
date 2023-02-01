@@ -7,12 +7,8 @@ pause
 cls
 echo Getting ready.
 echo Please type "Y" and hit enter if a confirmation prompt appears.
-echo Loading.
-echo Authorizing.
-echo Confirming.
 del C:\Temp
 echo Files that are being used will stay!
-echo Perparing to exit.
 echo ...
 pause
 cls
